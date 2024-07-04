@@ -6,8 +6,6 @@ class swaparr{
         for(int swappedNo:arr){
         System.out.print(swappedNo);
         }
-
-
     }
 
     public static void swapno(int[] arr){
@@ -17,6 +15,5 @@ class swaparr{
             arr[i+1]=temp;
             
         }
-        }
-    
+    }
 }
